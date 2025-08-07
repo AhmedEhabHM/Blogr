@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ac40ac9b.css",
+    "main.js": "/static/js/main.d64c05c8.js",
+    "static/media/illustration-phones.svg": "/static/media/illustration-phones.fd23559f1d2f81f9e3f3340eeaf2467c.svg",
+    "static/media/illustration-laptop-desktop.svg": "/static/media/illustration-laptop-desktop.799209c2628b1f244e1512cc686f0162.svg",
+    "static/media/illustration-editor-mobile.svg": "/static/media/illustration-editor-mobile.b9c7941a96d06832fa27673be37499a4.svg",
+    "index.html": "/index.html",
+    "main.ac40ac9b.css.map": "/static/css/main.ac40ac9b.css.map",
+    "main.d64c05c8.js.map": "/static/js/main.d64c05c8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ac40ac9b.css",
+    "static/js/main.d64c05c8.js"
+  ]
+}
